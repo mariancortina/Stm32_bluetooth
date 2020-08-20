@@ -117,6 +117,6 @@ int main()
 	while(1)
 	{
 		inicializarBluetooth();
-		 USART2_IRQHandler();
+		 //USART2_IRQHandler();
 	}
 }
